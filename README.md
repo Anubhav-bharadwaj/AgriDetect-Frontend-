@@ -1,10 +1,10 @@
-# AgriDetect
+# AgroVision
 
 ---
 
 ## 🚀 Overview
 
-AgriDetect is a frontend-only prototype of a plant disease detection web application built during a hackathon under the Web Development domain.
+AgroVision is a frontend-only prototype of a plant disease detection web application built during a hackathon under the Web Development domain.
 
 The goal was to design a clean, user-friendly interface that simulates how an AI-powered plant disease detection system would work — without implementing the actual machine learning backend due to time constraints.
 
